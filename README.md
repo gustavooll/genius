@@ -1,4 +1,4 @@
-# Genius
+# Genius*
 
 Você já jogou Genius?
 
@@ -31,3 +31,4 @@ Nesse repositório você encontra os *starter files* de um projeto de um jogo Ge
   - setTimeout()
   - setInterval()
 
+*Feito de acordo com o tutorial do Inkasa Dev: [aqui](https://www.youtube.com/playlist?list=PL28O_hEAqjAtOPTlRHkHrhfmct_USCGfI)
